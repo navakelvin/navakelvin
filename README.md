@@ -10,4 +10,4 @@ navakelvin/navakelvin is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 # Hi, i'm Kelvin.
-I'm a `JavaScript Developer`interested in Web and WebApp Development.
+I'm a `JavaScript Developer` interested in Web and WebApp Development.
